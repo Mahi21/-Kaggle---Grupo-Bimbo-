@@ -1,0 +1,5 @@
+Client Table 
+
+ Town State Table - Area wise informn
+
+For New Products - Can use nearest neighbours approach 
